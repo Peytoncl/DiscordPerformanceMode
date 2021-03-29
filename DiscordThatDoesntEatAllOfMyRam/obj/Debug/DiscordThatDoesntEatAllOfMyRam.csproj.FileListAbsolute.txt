@@ -186,9 +186,9 @@ C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOf
 C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\DiscordThatDoesntEatAllOfMyRam.csproj.GenerateResource.cache
 C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\DiscordThatDoesntEatAllOfMyRam.csproj.CoreCompileInputs.cache
 C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\DiscordThatDoesntEatAllOfMyRam.csproj.CopyComplete
-C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\bin\Debug\Discord Performance Mode.exe.config
-C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\bin\Debug\Discord Performance Mode.exe
-C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\bin\Debug\Discord Performance Mode.pdb
-C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\Discord Performance Mode.exe
-C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\Discord Performance Mode.pdb
 C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\DiscordPerformanceMode.Properties.Resources.resources
+C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\bin\Debug\DiscordPM.exe.config
+C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\bin\Debug\DiscordPM.exe
+C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\bin\Debug\DiscordPM.pdb
+C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\DiscordPM.exe
+C:\Users\Peyto\Documents\GitHub\DiscordPerformanceMode\DiscordThatDoesntEatAllOfMyRam\obj\Debug\DiscordPM.pdb

@@ -10,7 +10,7 @@
     <ProjectGuid>{F397A034-1BEE-4B3D-9F26-5AA4372084FB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>DiscordPerformanceMode</RootNamespace>
-    <AssemblyName>Discord Performance Mode</AssemblyName>
+    <AssemblyName>DiscordPM</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

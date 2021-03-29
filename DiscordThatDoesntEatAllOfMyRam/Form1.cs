@@ -21,6 +21,8 @@ namespace DiscordThatDoesntEatAllOfMyRam
         public Form1()
         {
             InitializeComponent();
+
+            this.Icon = DiscordPerformanceMode.Properties.Resources.MainIcon;
         }
 
         private void Form1_Load(object sender, EventArgs e)

@@ -84,6 +84,7 @@ namespace DiscordThatDoesntEatAllOfMyRam
 
         private void quitToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            notifyIcon1.Visible = false;
             Application.Exit();
         }
 

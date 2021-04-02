@@ -27,13 +27,13 @@ namespace DiscordThatDoesntEatAllOfMyRam
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            notifyIcon1.Visible = false;
-
             CefSettings settings = new CefSettings();
 
             settings.CachePath = Application.StartupPath + "/cache";
 
             settings.CefCommandLineArgs.Add("enable-media-stream", "1");
+            settings.CefCommandLineArgs.Add("allow-file-access", "1");
+            settings.CefCommandLineArgs.Add("--disable-gpu", "1");
 
             Cef.Initialize(settings);
 
